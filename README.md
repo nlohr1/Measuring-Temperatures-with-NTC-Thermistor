@@ -7,4 +7,4 @@ For better and more accurate contacts I often use gold-plated *lower and finer* 
 
 The board is programmed through an external Arduino-Serial-Programmer (per FTDI-Serial-Connector as used by the Arduino-Pro-Mini board).
 The USB-Connector on this layout used here only serves to connect an external 5V-Supply. It has no Voltage-Stabilizer nor Serial-translation to the µController as other boards have (like the Arduino-Nano).
-![NTC-Control-Board](https://github.com/nlohr1/Measuring-Temperatures-with-NTC-Thermistor/assets/49346586/1ec56a32-a1e1-49f8-9b11-b60e03ac3c29)
+![NTC-Control-Board_sch_ _pcb](https://github.com/nlohr1/Measuring-Temperatures-with-NTC-Thermistor/assets/49346586/b0db3ac9-9767-47c0-81dd-5c1f5ca14bdb)
